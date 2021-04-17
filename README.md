@@ -1,2 +1,4 @@
 # hello-world
-short description
+short description - Marios - 27 - Risk Analyst
+
+# commit message descibing changes 
